@@ -17,8 +17,13 @@ let b = 5;
 // console.log(++b);
 
 //assignment operator
-console.log(a=b);
-console.log(a+=1);
-console.log(b-=1);
-console.log(a*=1);
-console.log(a/=1);
+// console.log(a=b);
+// console.log(a+=1);
+// console.log(b-=1);
+// console.log(a*=1);
+// console.log(a/=1);
+
+// camparision operator
+
+let age = 45;
+console.log(age>=18);
