@@ -32,6 +32,7 @@ let cars = ["sacpio","thar","fortuner","audi"];
 console.log(cars);
 cars.push("bmw","roll","ferrari")
 console.log(cars);
+
 cars.pop();
 console.log(cars);
 
